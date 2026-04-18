@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kiran Duseja 👋
 
-<!--
-**kiranduseja-ds/kiranduseja-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Mumbai, India**
 
-Here are some ideas to get you started:
+I build ML models and AI-powered applications using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+`Python` `Machine Learning` `Deep Learning` `NLP` `RAG` `Pandas` `Scikit-learn` `TensorFlow`
+
+## 📁 Projects
+| Project | Description | Tools |
+|---|---|---|
+| [Customer Segmentation](https://github.com/kiranduseja-ds/customer-segmentation) | Clustering customers by behaviour | Python, K-Means |
+| BIA Projects | Business Intelligence Analysis | Python, Pandas |
+
+## 📜 Certifications
+- Kaggle Python Certificate
+- Kaggle Pandas Certificate
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/kiran-duseja-896ba92ba) • Open to Data Science roles
