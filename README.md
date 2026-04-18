@@ -14,8 +14,12 @@ I build ML models and AI-powered applications using Python.
 | BIA Projects | Business Intelligence Analysis | Python, Pandas |
 
 ## 📜 Certifications
-- Kaggle Python Certificate
-- Kaggle Pandas Certificate
+- Google Generative AI Studiio Certificate
+- Introduction to Claude Cowork Certificate
+- Ai for beginners
+- Professional Networking for Career Growth
+- Data science and Analytics
+- Introduction to Artificial Intelligence
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/kiran-duseja-896ba92ba) • Open to Data Science roles
