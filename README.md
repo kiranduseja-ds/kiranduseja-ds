@@ -10,7 +10,7 @@ I build ML models and AI-powered applications using Python.
 ## 📁 Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Customer Segmentation](https://github.com/kiranduseja-ds/customer-segmentation) | Clustering customers by behaviour | Python, K-Means |
+| https://github.com/kiranduseja-ds/E-Commerce-Customer-segmentation-and-Prediction | Clustering customers by behaviour | Python, K-Means |
 | BIA Projects | Business Intelligence Analysis | Python, Pandas |
 
 ## 📜 Certifications
