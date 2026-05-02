@@ -1,4 +1,4 @@
-# Hi, I'm Kiran Duseja 👋
+# Hi, I'm Kiran Duseja 
 
 **Data Scientist | Mumbai, India**
 
@@ -7,13 +7,13 @@ I build ML models and AI-powered applications using Python.
 ## 🔧 Skills
 `Python` `Machine Learning` `Deep Learning` `NLP` `RAG` `Pandas` `Scikit-learn` `TensorFlow`
 
-## 📁 Projects
+## Projects
 | Project | Description | Tools |
 |---|---|---|
 | https://github.com/kiranduseja-ds/E-Commerce-Customer-segmentation-and-Prediction | Clustering customers by behaviour | Python, K-Means |
 | https://github.com/kiranduseja-ds/BIA-PROJECTS | Business Intelligence Analysis | Python, Pandas |
 
-## 📜 Certifications
+## Certifications
 - Google Generative AI Studiio Certificate
 - Introduction to Claude Cowork Certificate
 - Ai for beginners
@@ -21,5 +21,5 @@ I build ML models and AI-powered applications using Python.
 - Data science and Analytics
 - Introduction to Artificial Intelligence
 
-## 📫 Connect with me
+## Connect with me
 [LinkedIn](https://www.linkedin.com/in/kiran-duseja-896ba92ba) • Open to Data Science roles
