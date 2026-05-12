@@ -1,20 +1,26 @@
-# Hi, I'm Kiran Duseja 
+# Hi, I'm Kiran Duseja 👋
 
-**Data Scientist | Mumbai, India**
+AI/ML Engineer focused on:
+- Generative AI
+- RAG Applications
+- Agentic AI
+- Machine Learning
+- Python
 
-I build ML models and AI-powered applications using Python.
+## Tech Stack
+Python | SQL | LangChain | CrewAI | FastAPI | Streamlit | FAISS
 
-## 🔧 Skills
-`Python` `Machine Learning` `Deep Learning` `NLP` `RAG` `Pandas` `Scikit-learn` `TensorFlow`
+## Featured Projects
+- Multi-Agent AI Career Copilot
+- RAG-Based Chatbot
+- Customer Churn Prediction
 
-## Projects
-| Project | Description | Tools |
-|---|---|---|
-| https://github.com/kiranduseja-ds/E-Commerce-Customer-segmentation-and-Prediction | Clustering customers by behaviour | Python, K-Means |
-| https://github.com/kiranduseja-ds/BIA-PROJECTS | Business Intelligence Analysis | Python, Pandas |
+## Currently Learning
+- Agentic AI
+- FastAPI
+- Cloud Basics
 
-## Certifications
-- Google Generative AI Studiio Certificate
+- ## certifications
 - Introduction to Claude Cowork Certificate
 - Ai for beginners
 - Professional Networking for Career Growth
