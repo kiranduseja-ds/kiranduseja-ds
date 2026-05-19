@@ -15,6 +15,9 @@ Python | SQL | LangChain | CrewAI | FastAPI | Streamlit | FAISS
 - RAG-Based Chatbot
 - Customer Churn Prediction
 
+## Live Project
+https://medisphere-ai-kd.streamlit.app/
+
 ## Currently Learning
 - Agentic AI
 - FastAPI
